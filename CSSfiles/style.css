@@ -1,0 +1,103 @@
+h1 , h2{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  font-size: 50px;
+  
+}
+nav{
+
+  text-align:left;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 50px;
+  margin: 30px;
+ 
+}
+h3{
+  text-align: center;
+  font-size: 20px;
+}
+
+#second{
+  padding: 0px;
+  margin: 0px;
+}
+.first-subheading{
+  font-style: normal;
+  font-size: 30px;
+}
+.coverpage{
+  background: wheat;
+  background-image: url("/logos/exoticessence-high-resolution-logo.png");
+ 
+}
+p{
+  text-align: center;
+  text-shadow: 2px 2px 5px gray;
+  font-weight: bold;
+ 
+}
+
+a{
+  color: black;
+  border-radius: 100px;
+}
+
+
+a:visited{
+  color:black;
+
+}
+a:hover{
+  color: rgb(95, 95, 138);
+ 
+}
+.about_page{
+ background-color:wheat;
+}
+#pic_one{
+  width: 300px;
+  margin: 0 auto;
+  display: block;
+
+}
+.Cinnamon{
+  margin: 0 auto;
+  display: block;
+  width:100%;
+ height: auto;
+
+}
+.navig{
+  display: flex;
+} 
+.container{
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+#blackpeperImg{
+  width: 500px;
+  height: 250px;
+}
+#cardamomImg{
+  width: 500px;
+  height: 250px;
+}
+#cinnamonImg{
+  width: 500px;
+  height: 250px;
+}
+#clovesImg{
+  width: 500px;
+  height: 250px
+
+}
+#nutmegImg{
+  width: 500px;
+  height: 250px
+}
